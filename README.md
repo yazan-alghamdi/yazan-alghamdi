@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Yazan Ibrahim Al-Ghamdi 👋
 
-<!--
-**yazan-alghamdi/yazan-alghamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | AI & Data Analytics | Data Science Graduate
 
-Here are some ideas to get you started:
+I am a Data Science graduate passionate about Artificial Intelligence, Data Analytics, Machine Learning, and Business Intelligence. I enjoy transforming complex data into meaningful insights and building intelligent solutions that support data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technical Skills
+
+- **Programming:** Python, SQL, HTML
+- **AI & Data Science:** Machine Learning, Natural Language Processing (NLP), Scikit-learn
+- **Business Intelligence:** Power BI, Plotly, Folium, Kepler.gl
+- **Professional Skills:** Analytical Thinking, Problem Solving, Teamwork, Communication
+
+---
+
+## 📂 Featured Projects
+
+### 🌍 Tourist's Vision
+AI-powered tourism analytics platform for analyzing more than **1.2 million tourism reviews** across Saudi Arabia using NLP, Machine Learning, and Power BI.
+
+### 🕋 Hajj Analytics Dashboard
+Interactive dashboards and geospatial analytics for Hajj operational data using Python, Plotly, Folium, and Kepler.gl.
+
+### 🤖 IBM Data Science Capstone
+Capstone project completed as part of the IBM Data Science Professional Certificate.
+
+---
+
+## 🏆 Certifications
+
+- IBM Data Science Professional Certificate
+- Google Data Analytics Professional Certificate
+- Google Business Intelligence Professional Certificate
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: **www.linkedin.com/in/yazan-al-ghamdi**
+- Email: **aws12133@icloud.com**
+
